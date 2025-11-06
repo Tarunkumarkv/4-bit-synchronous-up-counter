@@ -1,0 +1,12 @@
+# Icarus Verilog / VVP output
+*.vvp
+*.o
+
+# GTKWave / Simulation Dumps
+*.vcd
+*.lxt
+*.lxt2
+*.sav
+
+# Other temp files
+*~
