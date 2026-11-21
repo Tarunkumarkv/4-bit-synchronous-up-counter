@@ -2,9 +2,7 @@
 
 **Synthesizable 4-Bit Binary Up-Counter with Asynchronous Active-High Reset in Verilog-2001 HDL**
 
-[![Portfolio](https://img.shields.io/badge/Engineering_Portfolio-tarunkumarkv.github.io-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8)](https://tarunkumarkv.github.io)
-[![Language](https://img.shields.io/badge/HDL-Verilog--2001-1E293B?style=flat-square)]()
-[![Verification](https://img.shields.io/badge/Verification-Self--Checking_Testbench_(iverilog_%2B_GTKWave)-059669?style=flat-square)]()
+**Standard:** `Verilog-2001 HDL` &nbsp;·&nbsp; **Verification:** `Self-Checking Testbench (iverilog + GTKWave)` &nbsp;·&nbsp; [**Engineering Portfolio — tarunkumarkv.github.io ↗**](https://tarunkumarkv.github.io)
 
 ---
 
