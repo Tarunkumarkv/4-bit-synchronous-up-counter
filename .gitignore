@@ -1,4 +1,5 @@
-# Icarus Verilog / VVP output
+# Icarus Verilog / VVP output binaries
+counter_sim
 *.vvp
 *.o
 
@@ -8,5 +9,6 @@
 *.lxt2
 *.sav
 
-# Other temp files
+# OS & Temp files
+.DS_Store
 *~
